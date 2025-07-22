@@ -24,15 +24,21 @@ The program simulates a digital clock by:
 
 1. **Clone the Repository**
    ```bash
+   
    git clone https://github.com/anandbhalerao18/clock-timer.git
    cd clock-timer
+   
    ```
 2. **Compile the code**
    ```bash
+   
    gcc main.c -o clock
+   
    ```
 3. **run the code**
    ```bash
+   
    ./clock
+   
    ```
   
